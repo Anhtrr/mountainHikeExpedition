@@ -1,4 +1,4 @@
-package project5;
+package mountainHikeExpedition;
 
 import java.util.ArrayList;
 
