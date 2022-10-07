@@ -11,7 +11,7 @@ Each line should follow the following format: **"LABELS SUPPLIES OBSTACLES"** <b
 Please check sample input file: **input.txt** <br>
 
 Valid **SUPPLIES** are: **food, raft, axe, or empty** <br>
-Valid **OBSTACLES** are: **fallen tree, river, or empty** <br>
+Valid **OBSTACLES** are: **fallen tree, river, or empty** <br><br>
 
 ### Running the Program: 
 To compile the program:  
