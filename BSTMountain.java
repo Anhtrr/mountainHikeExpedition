@@ -1,4 +1,4 @@
-package project5;
+package mountainHikeExpedition;
 
 /**
  * This class represents a Binary search tree with self-balancing features and
